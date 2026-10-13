@@ -6,7 +6,7 @@
 </head>
 <body>
     <?php
-    //affichage du message bienvenue
+    //affichage du message bienvenuegitgit push -u origin main
     echo"Bienvenue dans mon TP PHP";
 
     // on utilise(//) pour un commentaire sur une seule ligne

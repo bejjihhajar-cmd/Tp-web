@@ -52,7 +52,7 @@
         //Afficher `true` et `false` avec `echo`, puis avec `var_dump()`.
 
         echo true ;
-        echo false :
+        echo false ;
 
         var_dump(true) ;
         var_dump(false) ;

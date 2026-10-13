@@ -5,7 +5,7 @@
     <title>Exercice 02</title>
 </head>
 <body>
-    <?php
+    <?php 
     $nom = "AIT BAHA";
     $prenom = "WAFA";
     $age = 22;
